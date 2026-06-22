@@ -80,7 +80,7 @@ highlight_name: true
 
 ---
 
-I am a machine learning researcher, curious about the nature of intelligence. I am currently an AI scientist at [Prior Labs](https://priorlabs.ai/). I’ve been fortunate to do my PhD at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/) and the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs). I have also interned at [Meta FAIR](https://ai.meta.com/research/) in New York. 
+I am a machine learning researcher, trying to understand intelligence. I am currently an AI scientist at [Prior Labs](https://priorlabs.ai/) and was recently named to the 2026 [Forbes 30 Under 30](https://www.forbes.com/profile/siyuan-guo/?list=30under30-europe-science-healthcare/) Europe list for Science and Healthcare. I’ve been fortunate to do my PhD at the University of Cambridge with [Ferenc Huszár](https://www.inference.vc/about/) and the Max Planck Institute for Intelligent Systems with [Bernhard Schölkopf](https://is.mpg.de/~bs). I have also interned at [Meta FAIR](https://ai.meta.com/research/) in New York. 
 
 
 My long-term interest is AI + Science: helping build a physics-inspired mathematical theory of intelligence and using AI to accelerate scientific discovery. My work is driven by two intertwined questions:
@@ -132,6 +132,9 @@ Email: sguo26v at gmail dot com
 ---
 
 **News**
+* July 2026 - Fly to Seoul!! will be at ICML AI4Math workshop as a speaker to talk about physics of learning :) 
+* May 2026 - Excited to see Prior Labs acquired for €1bn+; an exciting time at the intersection between academia and industry!
+* Apr 2026 - Named to the [Forbes 30 Under 30 Europe](https://www.forbes.com/profile/siyuan-guo/?list=30under30-europe-science-healthcare/) list for Science & Healthcare. Thank you to my incredible mentors and peers along this exciting journey! [Linkedin](https://www.linkedin.com/posts/siyuan-guo-50a3b5101_forbesunder30-physicsoflearning-cambridge-share-7449874968680669184-m77R/?utm_source=share&utm_medium=member_desktop&rcm=ACoAABndk5oBXGRjLx2DqviMiKMSTVQIOLapZFQ)
 * Feb 2026 - Invited Talk at [CISPA Helmholtz Center for Information Security](https://cispa.de/en): *Physics of Learning and Structure*.
 * Feb 2026 - Invited Talk at [MBZUAI](https://mbzuai.ac.ae/): *Physics of Learning and Structure*.
 * Jan 2026 - Invited Talk at [Lawrence Berkely National Laboratory](https://www.lbl.gov/): *Physics of Learning and Structure*.
