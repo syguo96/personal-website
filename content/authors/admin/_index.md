@@ -111,7 +111,7 @@ Email: sguo26v at gmail dot com
   <tr style="border:none;">
     <td style="width:50%; border:none; vertical-align:top;">
       – <a href="https://ch.linkedin.com/in/michelle-chao-chen">Michelle Chao Chen</a> (Co-advised with B. Schölkopf)<br>
-        <a href="https://arxiv.org/abs/2601.17869"> Structural Information in LLMs.</a> <em>Under Submission, 2026</em>
+        <a href="https://arxiv.org/abs/2601.17869"> Structural Information in LLMs.</a> <em>ACL, 2026</em>
     </td>
     <td style="width:50%; border:none; vertical-align:top;">
       – <a href="https://bmucsanyi.github.io/">Bálint Mucsányi</a> (Co-mentored with P. Reizinger)<br>
