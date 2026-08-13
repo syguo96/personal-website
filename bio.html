@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Talk bio &amp; abstract — Siyuan Guo</title>
+<meta name="description" content="Speaker bio and talk abstract for Siyuan Guo: Physics of Learning — Towards a Unified View of Intelligence.">
+<link rel="icon" href="img/avatar.png">
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div class="wrap">
+
+<a class="backlink" href="index.html">← Siyuan Guo</a>
+
+<h1 class="name" style="font-size:1.6rem">Invited talk — bio &amp; abstract</h1>
+
+<section>
+  <h2>Speaker bio</h2>
+  <p>
+    Siyuan Guo (she/her) is an AI scientist at Prior Labs and completed her PhD in machine
+    learning jointly at the University of Cambridge and the Max Planck Institute for Intelligent
+    Systems. Her research aims to understand intelligence and learning, with a focus on the
+    physics of learning, causal inference, and AI for scientific discovery. In 2025 she released
+    the <em>Physics of Learning</em> preprint, proposing that learning follows the principle of
+    least action; within a week of its arXiv release the work prompted a fireside-chat
+    invitation, multiple academic and industry talks, and collaboration discussions with
+    infrastructure support. Her work spans theory and application, most recently advancing
+    pre-trained foundation models for in-context causal inference in real-world scientific
+    settings. She has published at top-tier venues such as NeurIPS and ICLR, including one oral
+    and two spotlight presentations, and her research has been recognised by honours including
+    MIT EECS Rising Star, the G-Research PhD Prize, the MPI-IS Outstanding Female Doctoral
+    Student Award, and Forbes 30 Under 30 Europe.
+  </p>
+</section>
+
+<section>
+  <h2>Talk</h2>
+  <h3>Physics of Learning — Towards a Unified View of Intelligence</h3>
+  <p>
+    In physics, phenomena such as light propagation and Newtonian mechanics obey the principle of
+    least action: the true trajectory is a stationary point of the Lagrangian. In our recent
+    work [1], we hypothesise that learning, too, follows a least-action principle. We model
+    learning as stationary-action dynamics on information fields. Concretely, we derive classical
+    learning algorithms as stationary points of information-field Lagrangians, recovering Bellman
+    optimality from a reward-based Hamiltonian and Fisher-information–aware updates for
+    estimation. This yields a unifying variational view across reinforcement learning and
+    supervised learning, and suggests optimisers with testable properties. Conceptually, it
+    treats the training of a learning system as the evolution of a physical system in an abstract
+    information space.
+  </p>
+  <p>
+    Structure is also central to learning, enabling interventional reasoning and scientific
+    understanding. Causality provides a framework for discovering structure from data under the
+    hypothesis that causal mechanisms are independent. In earlier work [2], we formalise
+    independent mechanisms as independent latent variables controlling each mechanism, and show
+    how this perspective extends across effect estimation [3], counterfactual reasoning [4],
+    representation learning [5], and reinforcement learning [6].
+  </p>
+  <p>
+    Methodologically, in collaboration with Prior Labs, we developed Do-PFN [7], a pre-trained
+    foundation model that performs in-context causal inference — a promising out-of-the-box tool
+    for practitioners across scientific domains.
+  </p>
+</section>
+
+<section>
+  <h2>References</h2>
+  <ol class="refs">
+    <li>S. Guo and B. Schölkopf. <a href="https://arxiv.org/abs/2509.21049"><em>Physics of Learning: A Lagrangian Perspective to Different Learning Paradigms.</em></a> arXiv:2509.21049, 2025.</li>
+    <li>S. Guo*, V. Tóth*, B. Schölkopf, F. Huszár. <a href="https://arxiv.org/abs/2203.15756"><em>Causal de Finetti: On the Identification of Invariant Causal Structure in Exchangeable Data.</em></a> NeurIPS, 2023.</li>
+    <li>S. Guo, C. Zhang, K. Mohan, F. Huszár*, B. Schölkopf*. <a href="https://arxiv.org/abs/2405.18836"><em>Do Finetti: On Causal Effects for Exchangeable Data.</em></a> NeurIPS, 2024. Oral (0.46%).</li>
+    <li>M. Miller, B. Schölkopf, S. Guo. <a href="https://arxiv.org/abs/2506.05188"><em>Counterfactual Reasoning: An Analysis of In-Context Emergence.</em></a> NeurIPS, 2025.</li>
+    <li>P. Reizinger*, S. Guo*, F. Huszár, B. Schölkopf†, W. Brendel†. <a href="https://arxiv.org/abs/2406.14302"><em>Identifiable Exchangeable Mechanisms for Causal Structure and Representation Learning.</em></a> ICLR, 2025. Spotlight (5.1%).</li>
+    <li>P. Reizinger*, B. Mucsányi*, S. Guo*, B. Eysenbach, B. Schölkopf, W. Brendel. <a href="https://arxiv.org/abs/2507.14748"><em>Skill Learning via Policy Diversity Yields Identifiable Representations for Reinforcement Learning.</em></a> ICLR, 2026.</li>
+    <li>J. Robertson*, A. Reuter*, S. Guo, N. Hollmann, F. Hutter, B. Schölkopf. <a href="https://arxiv.org/abs/2506.06039"><em>Do-PFN: In-Context Learning for Causal Effect Estimation.</em></a> NeurIPS, 2025. Spotlight (3.19%).</li>
+  </ol>
+  <p style="font-family:var(--sans);font-size:.82rem;color:var(--ink-soft)">
+    * equal contribution · † equal supervision
+  </p>
+</section>
+
+<footer>
+  <span>© <span id="year">2026</span> Siyuan Guo</span>
+  <span><a href="index.html">Home</a> · <a href="uploads/CV.pdf">CV</a></span>
+</footer>
+
+</div>
+<script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
